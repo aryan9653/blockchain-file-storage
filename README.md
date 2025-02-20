@@ -16,6 +16,7 @@ This project is a decentralized file storage solution that leverages blockchain 
 - **Web3.js**: To interact with the blockchain.
 - **React.js**: For the frontend (if applicable).
 - **Node.js & Express.js**: For backend services (if applicable).
+- **QuickNode**: For fast and reliable Ethereum node access.
 
 ## Installation
 1. Clone the repository:
@@ -29,9 +30,9 @@ This project is a decentralized file storage solution that leverages blockchain 
    npm install
    ```
 
-3. Deploy smart contracts to Ethereum:
+3. Deploy smart contracts to Ethereum using QuickNode:
    ```bash
-   truffle migrate --network rinkeby
+   truffle migrate --network rinkeby --provider https://your-quicknode-url
    ```
 
 4. Run the application:
