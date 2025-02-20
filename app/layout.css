@@ -1,0 +1,17 @@
+/* Layout-specific styles */
+.container {
+    @apply mx-auto px-4;
+  }
+  
+  header {
+    @apply py-4;
+  }
+  
+  nav ul {
+    @apply flex justify-between;
+  }
+  
+  nav a {
+    @apply text-lg font-bold;
+  }
+  
