@@ -1,7 +1,7 @@
 # Decentralized File Storage
 
 ## Overview
-This project is a decentralized file storage solution that leverages blockchain technology to provide secure, transparent, and immutable data storage. Built using Solidity smart contracts and deployed on the Ethereum network, it allows users to upload, store, and retrieve files in a decentralized manner.manner
+This project is a decentralized file storage solution that leverages blockchain technology to provide secure, transparent, and immutable data storage. Built using Solidity smart contracts and deployed on the Ethereum network, it allows users to upload, store, and retrieve files in a decentralized manner.
 
 ## Features
 - **Decentralized Storage**: Eliminates the need for centralized servers by using blockchain-based storage solutions.
